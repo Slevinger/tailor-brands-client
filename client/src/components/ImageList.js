@@ -6,7 +6,7 @@ export default ({ page, content }) => {
     <ContentContainer>
       <div className="container center inline-flex flex-wrap justify-center flex-1">
         {content.slice(page * 6, page * 6 + 6).map((item) => (
-          <Card key={item.div} {...item} />
+          <Card key={item.id} {...item} />
         ))}
       </div>
     </ContentContainer>
