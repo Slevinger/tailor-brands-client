@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tailor-brands-client/static/css/main.ed9e59ea.chunk.css",
+    "main.js": "/tailor-brands-client/static/js/main.609a2a46.chunk.js",
+    "main.js.map": "/tailor-brands-client/static/js/main.609a2a46.chunk.js.map",
+    "runtime-main.js": "/tailor-brands-client/static/js/runtime-main.12592743.js",
+    "runtime-main.js.map": "/tailor-brands-client/static/js/runtime-main.12592743.js.map",
+    "static/js/2.f647c8fa.chunk.js": "/tailor-brands-client/static/js/2.f647c8fa.chunk.js",
+    "static/js/2.f647c8fa.chunk.js.map": "/tailor-brands-client/static/js/2.f647c8fa.chunk.js.map",
+    "index.html": "/tailor-brands-client/index.html",
+    "precache-manifest.4ef2a480759a1603bb99e79caaf2fdb3.js": "/tailor-brands-client/precache-manifest.4ef2a480759a1603bb99e79caaf2fdb3.js",
+    "service-worker.js": "/tailor-brands-client/service-worker.js",
+    "static/css/main.ed9e59ea.chunk.css.map": "/tailor-brands-client/static/css/main.ed9e59ea.chunk.css.map",
+    "static/js/2.f647c8fa.chunk.js.LICENSE.txt": "/tailor-brands-client/static/js/2.f647c8fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12592743.js",
+    "static/js/2.f647c8fa.chunk.js",
+    "static/css/main.ed9e59ea.chunk.css",
+    "static/js/main.609a2a46.chunk.js"
+  ]
+}
