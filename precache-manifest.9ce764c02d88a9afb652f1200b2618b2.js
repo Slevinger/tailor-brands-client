@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fd5308250fe53a26b8a35512ffcf8eb",
+    "revision": "fa764d5466e1d439260500751cf04fbb",
     "url": "/tailor-brands-client/index.html"
   },
   {
-    "revision": "3043baf0d511c2817c07",
+    "revision": "7d14d62e4568969abb70",
     "url": "/tailor-brands-client/static/css/main.ed9e59ea.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tailor-brands-client/static/js/2.f647c8fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3043baf0d511c2817c07",
-    "url": "/tailor-brands-client/static/js/main.609a2a46.chunk.js"
+    "revision": "7d14d62e4568969abb70",
+    "url": "/tailor-brands-client/static/js/main.a95b9512.chunk.js"
   },
   {
     "revision": "35a4193c005abf98ee0f",

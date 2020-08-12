@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tailor-brands-client/precache-manifest.4ef2a480759a1603bb99e79caaf2fdb3.js"
+  "/tailor-brands-client/precache-manifest.9ce764c02d88a9afb652f1200b2618b2.js"
 );
 
 self.addEventListener('message', (event) => {
